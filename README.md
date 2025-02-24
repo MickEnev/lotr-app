@@ -1,8 +1,7 @@
-# React + Vite
+# LOTR React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React app that uses the "The one API" to retrive infomration about the Lord of The Rings characters, movies, and books. The app then displays this infomration based on button seleciton and displays relevant info for each selection. This is the first project I have made in React and served as an entry point into the framework. 
 
-Currently, two official plugins are available:
+![image](https://github.com/user-attachments/assets/6be859be-a139-46c7-8c1b-8dd7481de11d)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
