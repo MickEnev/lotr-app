@@ -4,5 +4,7 @@ This is a React app that uses the "The one API" to retrive infomration about the
 
 ![image](https://github.com/user-attachments/assets/04b40af5-4935-4cc7-9367-f12ffe166a30)
 
+# Roadmap
 
+I don't plan to make many changes to this project initially. I want to use this as a baseline for my react learning. After I have a few more projects under my belt I will come back to this one and add different features.
 
