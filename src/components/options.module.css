@@ -1,0 +1,21 @@
+.button {
+    outline: none;
+    border: none;
+    cursor: pointer; 
+    font-size: 20px;
+}
+
+.nonSelectedButton {
+    background: rgb(0, 0, 0, 0.3);
+    color: white;
+}
+
+.selectedButton {
+    color: #0f172a;
+    background: white;
+}
+
+.buttonContainer {
+    margin: 0 auto;
+
+}

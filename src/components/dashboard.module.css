@@ -1,0 +1,25 @@
+.dashboard {
+    display: grid;
+    place-items: center;
+    color: white;
+    z-index: 50;
+    position: relative;
+    flex: 1;
+    max-height: 100vh;
+    overflow: scroll;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.dashboard::-webkit-scrollbar {
+    display: none;
+}
+
+.layout {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    max-width: 100%;
+}
